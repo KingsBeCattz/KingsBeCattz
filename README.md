@@ -15,5 +15,6 @@ I am capable of working on projects in JavaScript, TypeScript, or NodeJS, using 
 ## Contact me
 <a href="https://discord.com/users/1125490330679115847"><img src="https://img.shields.io/badge/-Discord-000000?labelColor=5568f2&logo=discord&logoColor=ffffff" alt="Discord Badge"/></a>
 <a href="https://twitter.com/kingsbcats"><img src="https://img.shields.io/badge/-Twitter-000000?labelColor=1da1f2&logo=twitter&logoColor=ffffff" alt="Twitter Badge"/></a>
-<a href="https://npmjs.com/~jdaniel-dev/"><img src="https://img.shields.io/badge/-NPM-000000?labelColor=cd0000&logo=npm&logoColor=ffffff" alt="NPM Badge"/></a>
 <a href="https://instagram.com/kingsbcattz"><img src="https://img.shields.io/badge/-Instagram-000000?labelColor=E4405F&logo=instagram&logoColor=ffffff" alt="Instagram Badge"/></a>
+<a href="https://npmjs.com/~jdaniel-dev/"><img src="https://img.shields.io/badge/-NPM-000000?labelColor=cd0000&logo=npm&logoColor=ffffff" alt="NPM Badge"/></a>
+<a href="https://github.com/KingsBeCattz/"><img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=ffffff" alt="GitHub Badge"/></a>
