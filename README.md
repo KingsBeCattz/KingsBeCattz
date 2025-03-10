@@ -1,17 +1,27 @@
 # About Me 
-## Who I'am?
-Hi! I'm KingsBeCattz, a passionate beginner developer. I started in 2021 developing in BDFD (An android app to make discord bots easily), and currently, I use TypeScript for bot development and node packages.
+Hi! I am an experienced developer using TypeScript, JavaScript, React, Astro, Vue, and a bit of Angular and of C++ thanks to Arduino.
 
-## What can I do?
-I am capable of working on projects in JavaScript, TypeScript, or NodeJS, using technologies like GitHub for team development and NPM for publishing and managing npm modules.
+## Curious facts
+- I am a student and mechatronics enthusiast.
+- I'm from Mexico
+- I have a particular taste for bbno$ music.
 
-## Proyects **(Only projects that are important, active, or with future plans)**
-| Bots | Packages |
-|:-:|:-:|
-| Tohru (Abandoned) | [HybridCommands](https://www.npmjs.com/package/hybridcommands) | 
-| [Power](https://discord.com/api/oauth2/authorize?client_id=1128150135927484456&permissions=8&scope=applications.commands%20bot) | [Nayeon](https://www.npmjs.com/package/nayeon) |
-| [HollowBot](https://discord.com/oauth2/authorize?client_id=1242379095862415360&permissions=8&integration_type=0&scope=bot+applications.commands) | [KatDB](https://www.npmjs.com/package/katdb) |
-| | [EveDB](https://www.npmjs.com/package/@kingbecats/evedb) |
+## All Knowledges
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=js,ts,html,css,arduino,cpp,astro,vue,react" /></a>
+
+## Used tools
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,vscodium,github,nodejs,bun,npm,pnpm,vite,vercel" /></a>
+
+## On list
+Here are languages, frameworks and libraries that I intend to learn in the near future.
+
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go,lua,rust,cs,ruby,sass,sqlite,zig,svelte" /></a>
+
+## GitHub Stats
+<div align="center">
+  <span><img height="150" src="https://github-readme-stats.vercel.app/api?username=KingsBeCattz&theme=react&show_icons=true&include_all_commits=true" /></span>
+  <span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingsBeCattz&theme=react&layout=compact" /></span>
+</div>
 
 ## Contact me
 <a href="https://discord.com/users/1125490330679115847"><img src="https://img.shields.io/badge/-Discord-000000?labelColor=5568f2&logo=discord&logoColor=ffffff" alt="Discord Badge"/></a>
