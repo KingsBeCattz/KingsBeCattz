@@ -7,15 +7,17 @@ Hi! I am an experienced developer using TypeScript, JavaScript, React, Astro, Vu
 - I have a particular taste for bbno$ music.
 
 ## All Knowledges
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=js,ts,html,css,arduino,cpp,astro,vue,react" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=js,ts,arduino,cpp" /></a>
+  ### Front End Knowledges
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,astro,vue,react" /></a>
 
 ## Used tools
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,vscodium,github,nodejs,bun,npm,pnpm,vite,vercel" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,webstorm,bun,pnpm,vite,vercel" /></a>
 
 ## On list
 Here are languages, frameworks and libraries that I intend to learn in the near future.
 
-  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go,lua,rust,cs,ruby,sass,sqlite,zig,svelte" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go,rust,cs,sass,zig" /></a>
 
 ## GitHub Stats
 <div align="center">
