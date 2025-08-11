@@ -4,7 +4,7 @@ I am a full-stack developer with approximately 4 years of experience and a mecha
 
 ## Knowledges
   <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingsBeCattz&theme=react&count_private=true" /> -->
-  <img width="350" align="right" src="https://github-readme-stats.vercel.app/api?username=KingsBeCattz&theme=react&show_icons=true&include_all_commits=true" />
+  <img width="340" align="right" src="https://github-readme-stats.vercel.app/api?username=KingsBeCattz&theme=react&show_icons=true&include_all_commits=true" />
   
   <div>
     <table>
