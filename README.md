@@ -4,7 +4,7 @@ I am a full-stack developer with approximately 4 years of experience and a mecha
 
 ## Knowledges
   <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingsBeCattz&theme=react&count_private=true" /> -->
-  <img width="330" align="right" src="https://github-readme-stats.vercel.app/api?username=KingsBeCattz&theme=react&show_icons=true&include_all_commits=true" />
+  <!-- <img width="330" align="right" src="https://github-readme-stats.vercel.app/api?username=KingsBeCattz&theme=react&show_icons=true&include_all_commits=true" /> -->
   
   <div>
     <table>
@@ -34,6 +34,8 @@ I am a full-stack developer with approximately 4 years of experience and a mecha
     </tbody>
     </table>
   </div>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kingsbecats&layout=compact" />
 
 ## Contact me
 - <img src="https://img.shields.io/badge/-Discord-000000?labelColor=5568f2&logo=discord&logoColor=ffffff" alt="Discord Badge"/> : kingbcats
