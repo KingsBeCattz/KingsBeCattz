@@ -19,7 +19,7 @@ I am a full-stack developer with approximately 4 years of experience and a mecha
       <tr>
         <th scope="row">Front-End</th>
         <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,js,css,html&perline=5" /></a></td>
-        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=astro,vue,react,angular,tailwind&perline=5" /></a></td>
+        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=astro,react,tailwind&perline=5" /></a></td>
       </tr>
       <tr>
         <th scope="row">Back-End</th>
