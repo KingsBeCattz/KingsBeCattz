@@ -24,12 +24,17 @@ I am a full-stack developer with approximately 4 years of experience and a mecha
       <tr>
         <th scope="row">Back-End</th>
         <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,js,cpp,rust,haxe&perline=3" /></a></td>
-        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=express,bun,haxeflixel&perline=3" /></a></td>
+        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=express,bun&perline=3" /></a></td>
       </tr>
       <tr>
         <th scope="row">Mechatronics</th>
         <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&perline=3" /></a></td>
         <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&perline=3" /></a></td>
+      </tr>
+      <tr>
+        <th scope="row">Dame Development</th>
+        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=haxe&perline=3" /></a></td>
+        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=haxeflixel&perline=3" /></a></td>
       </tr>
     </tbody>
     </table>
