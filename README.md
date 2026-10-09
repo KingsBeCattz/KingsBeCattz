@@ -1,6 +1,6 @@
 # About Me 
 
-I am a full-stack developer with approximately 4 years of experience and a mechatronics enthusiast.
+Backend-focused developer since 2021. Engineering student planning to specialize in mechatronics. Creator of two binary serialization formats.
 
 ## Knowledges
   <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingsBeCattz&theme=react&count_private=true" /> -->
@@ -18,24 +18,26 @@ I am a full-stack developer with approximately 4 years of experience and a mecha
     <tbody>
       <tr>
         <th scope="row">Front-End</th>
-        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,js,css,html&perline=3" /></a></td>
-        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=astro,react,tailwind&perline=3" /></a></td>
+        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,css,html&perline=3" /></a></td>
+        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=astro,react&perline=3" /></a></td>
       </tr>
       <tr>
         <th scope="row">Back-End</th>
-        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,js,cpp,rust,haxe&perline=3" /></a></td>
+        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts,cpp,rust&perline=3" /></a></td>
         <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=express,bun&perline=3" /></a></td>
       </tr>
       <tr>
         <th scope="row">Mechatronics</th>
         <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&perline=3" /></a></td>
-        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&perline=3" /></a></td>
+        <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=arduino,platformio&perline=3" /></a></td>
       </tr>
+      <!--
       <tr>
         <th scope="row">Dame Development</th>
         <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=haxe&perline=3" /></a></td>
         <td><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=haxeflixel&perline=3" /></a></td>
-      </tr>
+      </tr> 
+      -->
     </tbody>
     </table>
   </div>
